@@ -1,42 +1,22 @@
 {
-    "Oddity.mp3":{
-        "album":"Space",
-        "orig_filename":"Oddity.mp3",
+    "furelise.mp3":{
+        "album":"Classic",
+        "orig_filename":"furelise.mp3",
         "playlists":[
             "bar"
         ],
-        "playtime_seconds":"326",
-        "title":"Space Oddity",
-		"artist":"Chris Headfield"
+        "playtime_seconds":"175",
+        "title":"Fur Elise",
+		"artist":"Bethoven"
     },
-    "Asshole.mp3":{
-        "album":"Asshole",
-        "orig_filename":"Asshole.mp3",
+    "nhkkyou.mp3":{
+        "album":"Sad",
+        "orig_filename":"nhkkyou.mp3",
         "playlists":[
             "bar"
         ],
-        "playtime_seconds":"262",
-        "title":"Space Asshole",
-		"artist":"Chris Remo"
-    },
-    "Apple.mp3":{
-        "album":"Anime",
-        "orig_filename":"Bad Apple.mp3",
-        "playlists":[
-            "bar"
-        ],
-        "playtime_seconds":"220",
-        "title":"Bad Apple",
-		"artist":"Nika Lenina"
-    },
-    "Mylord.mp3":{
-        "album":"Animus",
-        "orig_filename":"Mylord.mp3",
-        "playlists":[
-            "bar"
-        ],
-        "playtime_seconds":"114",
-        "title":"My lord",
-		"artist":"Konstantine Stoopin"
+        "playtime_seconds":"108",
+        "title":"Kyou",
+		"artist":"NHK"
     }
 }
