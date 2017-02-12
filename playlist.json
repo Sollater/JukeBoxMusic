@@ -18,5 +18,15 @@
         "playtime_seconds":"108",
         "title":"Kyou",
 		"artist":"NHK"
+    },
+    "sovietmarch.mp3":{
+        "album":"Anthem",
+        "orig_filename":"sovietmarch.mp3",
+        "playlists":[
+            "bar"
+        ],
+        "playtime_seconds":"108",
+        "title":"One Great Station",
+		"artist":"EA"
     }
 }
