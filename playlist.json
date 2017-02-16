@@ -28,5 +28,27 @@
         "playtime_seconds":"108",
         "title":"One Great Station",
 		"artist":"EA"
-    }
+    },
+	    }
+    "wwmii.mp3":{
+    "album":"Wasteland",
+    "orig_filename":"wwmii.mp3",
+    "playlists":[
+            "bar"
+        ],
+   "playtime_seconds":"199",
+   "title":"Mail It In",
+   "artist":"Waistland Wailers"
+   },
+       }
+    "wwwlm.mp3":{
+    "album":"Wasteland",
+    "orig_filename":"wwwlm.mp3",
+    "playlists":[
+            "bar"
+        ],
+   "playtime_seconds":"288",
+   "title":"Whole Lotta Magic",
+   "artist":"Waistland Wailers"
+   }
 }
