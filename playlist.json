@@ -1,5 +1,35 @@
-{
-    "furelise.mp3":{
+{ 
+     "Grajdanskaya Oborona-Vintovka.mp3":{
+	"album":"Grob",
+	"orig_filename":"Гражданская Оборона_-_Винтовка.mp3",
+	"playlists":[
+	    "bar"
+	],
+	"playtime_seconds":"150",
+	"title":"Vintovka",
+		"artist":"Grajdanskaya oborona"
+	},
+     "Grajdanskaya Oborona-Moya Oborona.mp3":{
+	"album":"Grob",
+	"orig_filename":"Гражданская Оборона_-_Моя оборона.mp3",
+	"playlists":[
+	    "bar"
+	],
+	"playtime_seconds":"222",
+	"title":"Moya Oborona",
+		"artist":"Grajdanskaya oborona"
+	},
+     "Grajdanskaya Oborona-Harakiri.mp3":{
+	"album":"Grob",
+	"orig_filename":"Гражданская Оборона_-_Харакири.mp3",
+	"playlists":[
+	    "bar"
+	],
+	"playtime_seconds":"136",
+	"title":"Harakiri",
+		"artist":"Grajdanskaya oborona"
+	},
+	"furelise.mp3":{
         "album":"Classic",
         "orig_filename":"furelise.mp3",
         "playlists":[
