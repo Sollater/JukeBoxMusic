@@ -29,103 +29,102 @@
         "title":"One Great Station",
 		"artist":"EA"
     },
-	    }
     "wwmii.mp3":{
-    "album":"Wasteland",
-    "orig_filename":"wwmii.mp3",
-    "playlists":[
-            "bar"
+	"album":"Wasteland",
+	"orig_filename":"wwmii.mp3",
+	"playlists":[
+	    "bar"
         ],
-   "playtime_seconds":"199",
-   "title":"Mail It In",
-   "artist":"Waistland Wailers"
-   },
+	 "playtime_seconds":"199",
+  	 "title":"Mail It In",
+  	 "artist":"Waistland Wailers"
+    },
        }
     "wwwlm.mp3":{
-    "album":"Wasteland",
-    "orig_filename":"wwwlm.mp3",
-    "playlists":[
-            "bar"
+    	"album":"Wasteland",
+   	 "orig_filename":"wwwlm.mp3",
+   	 "playlists":[
+	    "bar"
         ],
-   "playtime_seconds":"288",
-   "title":"Whole Lotta Magic",
-   "artist":"Waistland Wailers"
-   }
+ 	  "playtime_seconds":"288",
+  	 "title":"Whole Lotta Magic",
+  	 "artist":"Waistland Wailers"
+   },
        }
     "NEONCLOUD.mp3":{
-    "album":"NEONCLOUD",
-    "orig_filename":"NEONCLOUD.mp3",
-    "playlists":[
+    	"album":"NEONCLOUD",
+   	"orig_filename":"NEONCLOUD.mp3",
+  	"playlists":[
             "bar"
         ],
-   "playtime_seconds":"153",
-   "title":" △ (Wildfox Bootleg)",
-   "artist":"NEONCLOUD"
-   }
+   	"playtime_seconds":"153",
+  	"title":"Wildfox Bootleg",
+  	"artist":"NEONCLOUD"
+   },
        }
     "johannstrausswaltz.mp3":{
-    "album":"The Blue Danube",
-    "orig_filename":"johannstrausswaltz.mp3",
-    "playlists":[
+ 	 "album":"The Blue Danube",
+  	 "orig_filename":"johannstrausswaltz.mp3",
+   	 "playlists":[
             "bar"
         ],
-   "playtime_seconds":"501",
-   "title":"The Blue Danube",
-   "artist":"Johann Strauss"
-   }
+  	 "playtime_seconds":"501",
+  	 "title":"The Blue Danube",
+ 	 "artist":"Johann Strauss"
+   },
        }
     "ErikSatie.mp3":{
-    "album":"Gymnopédie No. 1",
-    "orig_filename":"ErikSatie.mp3",
-    "playlists":[
+   	"album":"Gymnopedie No. 1",
+   	"orig_filename":"ErikSatie.mp3",
+    	"playlists":[
             "bar"
         ],
-   "playtime_seconds":"188",
-   "title":"Gymnopédie No. 1",
-   "artist":"Erik Satie"
-   }
+  	 "playtime_seconds":"188",
+  	 "title":"Gymnopédie No. 1",
+  	 "artist":"Erik Satie"
+   },
        }
     "TheEcstasy OfSaintTheresaSwoony.mp3":{
-    "album":"Swoony",
-    "orig_filename":"TheEcstasy OfSaintTheresaSwoony.mp3",
-    "playlists":[
+  	 "album":"Swoony",
+  	 "orig_filename":"TheEcstasy OfSaintTheresaSwoony.mp3",
+   	 "playlists":[
             "bar"
         ],
-   "playtime_seconds":"435",
-   "title":"Swoony",
-   "artist":"The Ecstasy Of Saint Theresa"
-   }
+  	 "playtime_seconds":"435",
+  	 "title":"Swoony",
+	   "artist":"The Ecstasy Of Saint Theresa"
+   },
        }
     "MaloryWords.mp3":{
-    "album":"Words",
-    "orig_filename":"MaloryWords.mp3",
-    "playlists":[
+   	"album":"Words",
+    	"orig_filename":"MaloryWords.mp3",
+    	"playlists":[
             "bar"
         ],
-   "playtime_seconds":"300",
-   "title":"Words",
-   "artist":"Malory"
-   }
+  	 "playtime_seconds":"300",
+ 	  "title":"Words",
+ 	  "artist":"Malory"
+   },
        }
-    "richard-wagner-ride-of-the-valkyries.mp3":{
-    "album":"Ride of the Valkyries",
-    "orig_filename":"richard-wagner-ride-of-the-valkyries.mp3",
-    "playlists":[
+   	 "richard-wagner-ride-of-the-valkyries.mp3":{
+   	 "album":"Ride of the Valkyries",
+   	 "orig_filename":"richard-wagner-ride-of-the-valkyries.mp3",
+  	  "playlists":[
             "bar"
         ],
-   "playtime_seconds":"314",
-   "title":"Ride of the Valkyries",
-   "artist":"Richard Wagner"
-   }
+  	 "playtime_seconds":"314",
+   	"title":"Ride of the Valkyries",
+   	"artist":"Richard Wagner"
+   },
        }
     "georgii_sviridov_vremya_vpered.mp3":{
-    "album":"Vremya Vpered",
-    "orig_filename":"georgii_sviridov_vremya_vpered.mp3",
-    "playlists":[
+  	 "album":"Vremya Vpered",
+   	 "orig_filename":"georgii_sviridov_vremya_vpered.mp3",
+   	 "playlists":[
             "bar"
         ],
-   "playtime_seconds":"210",
-   "title":"Vremya Vpered",
-   "artist":"Georgii Sviridov"
+ 	 "playtime_seconds":"210",
+  	 "title":"Vremya Vpered",
+  	 "artist":"Georgii Sviridov"
    }
 }
