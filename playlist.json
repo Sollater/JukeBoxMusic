@@ -39,7 +39,6 @@
   	 "title":"Mail It In",
   	 "artist":"Waistland Wailers"
     },
-       }
     "wwwlm.mp3":{
     	"album":"Wasteland",
    	 "orig_filename":"wwwlm.mp3",
@@ -50,7 +49,6 @@
   	 "title":"Whole Lotta Magic",
   	 "artist":"Waistland Wailers"
    },
-       }
     "NEONCLOUD.mp3":{
     	"album":"NEONCLOUD",
    	"orig_filename":"NEONCLOUD.mp3",
@@ -61,7 +59,6 @@
   	"title":"Wildfox Bootleg",
   	"artist":"NEONCLOUD"
    },
-       }
     "johannstrausswaltz.mp3":{
  	 "album":"The Blue Danube",
   	 "orig_filename":"johannstrausswaltz.mp3",
@@ -72,7 +69,6 @@
   	 "title":"The Blue Danube",
  	 "artist":"Johann Strauss"
    },
-       }
     "ErikSatie.mp3":{
    	"album":"Gymnopedie No. 1",
    	"orig_filename":"ErikSatie.mp3",
@@ -83,7 +79,6 @@
   	 "title":"Gymnopédie No. 1",
   	 "artist":"Erik Satie"
    },
-       }
     "TheEcstasy OfSaintTheresaSwoony.mp3":{
   	 "album":"Swoony",
   	 "orig_filename":"TheEcstasy OfSaintTheresaSwoony.mp3",
@@ -94,7 +89,6 @@
   	 "title":"Swoony",
 	   "artist":"The Ecstasy Of Saint Theresa"
    },
-       }
     "MaloryWords.mp3":{
    	"album":"Words",
     	"orig_filename":"MaloryWords.mp3",
@@ -105,8 +99,7 @@
  	  "title":"Words",
  	  "artist":"Malory"
    },
-       }
-   	 "richard-wagner-ride-of-the-valkyries.mp3":{
+     "richard-wagner-ride-of-the-valkyries.mp3":{
    	 "album":"Ride of the Valkyries",
    	 "orig_filename":"richard-wagner-ride-of-the-valkyries.mp3",
   	  "playlists":[
@@ -115,8 +108,7 @@
   	 "playtime_seconds":"314",
    	"title":"Ride of the Valkyries",
    	"artist":"Richard Wagner"
-   },
-       }
+   },  
     "georgii_sviridov_vremya_vpered.mp3":{
   	 "album":"Vremya Vpered",
    	 "orig_filename":"georgii_sviridov_vremya_vpered.mp3",
